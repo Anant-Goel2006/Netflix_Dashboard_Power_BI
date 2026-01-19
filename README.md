@@ -104,11 +104,6 @@ Some key calculations used:
 
 ---
 
-## 📸 Dashboard Preview
-
-*(Add dashboard screenshots here)*
-
----
 
 ## 🧠 Learnings
 
